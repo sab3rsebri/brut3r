@@ -6,5 +6,3 @@ The author does not hold any responsibility for the bad use of this tool, rememb
 python3 brute.py user@ip WordlistFile
 # Features : 
 - Multithreading
-# adds : 
-"Rockyou.txt", one of the best wordlist for bruteforcing
