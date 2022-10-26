@@ -7,4 +7,4 @@ python3 brute.py user@ip WordlistFile
 # Features : 
 - Multithreading
 # adds : 
-i've added one of the best wordlists for bruteforce attack, "Rockyou.txt"
+"Rockyou.txt", one of the best wordlist for bruteforcing
